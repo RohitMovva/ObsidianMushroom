@@ -1,0 +1,4 @@
+name: Thingy
+version: '1.0-SNAPSHOT'
+main: CAoP.CAoP.main
+api-version: 1.19
